@@ -26,7 +26,7 @@ public class HiddenDigits {
             }
 
             if (ans.length() == 0) {
-                System.out.println("None");
+                System.out.println("NONE");
             }else {
                 System.out.println(ans);
             }
